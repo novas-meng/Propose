@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fudannlp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fudannlp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

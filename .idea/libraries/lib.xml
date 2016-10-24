@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/._lucene-core-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/._commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/._trove.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/._lucene-queryparser-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-core-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-queryparser-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/trove.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
